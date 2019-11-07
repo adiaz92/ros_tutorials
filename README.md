@@ -1,6 +1,4 @@
 # ros_tutorials
-
-# ros_tutorials
 Homework exercise 1.3, ROS TUTORIALS
 
 # Tutorial 5
@@ -25,7 +23,7 @@ Some sample screenshots I got doing tutorial 6:
 Calling services: ```rosservice list ```
 ![rosservice list](media/Captura6.png)
 
-Calling services: rosservice call /spawn 2 2 0.2 ""
+Calling services: ```rosservice call /spawn 2 2 0.2 ""```
 ![ros call spawn](media/Captura7.png)
 
 Changing parameters:
