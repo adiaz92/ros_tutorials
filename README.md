@@ -41,10 +41,10 @@ Wall Crash Warning with rqt console:
 ![rqt_console](media/Captura9.png)
 
 Launching a mimic launch:
-![mimic launch](media/Capture10.png)
+![mimic launch](media/Captura10.png)
 
 Launching a roslaunch mimic circular movement:
-![mimic launch](media/Capture11.png)
+![mimic launch](media/Captura11.png)
 
 Using rqt tools:
 ![rqt_graph with dual turtle sim](media/Captura12.png)
